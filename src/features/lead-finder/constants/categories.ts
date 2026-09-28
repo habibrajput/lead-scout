@@ -1,0 +1,23 @@
+/** Business types that typically benefit most from a simple website. */
+export const POPULAR_CATEGORIES = [
+  "Restaurants",
+  "Cafes",
+  "Bakeries",
+  "Hair salons",
+  "Barber shops",
+  "Beauty salons",
+  "Dentists",
+  "Clinics",
+  "Gyms",
+  "Plumbers",
+  "Electricians",
+  "AC repair",
+  "Car repair",
+  "Car wash",
+  "Real estate agents",
+  "Tailors",
+  "Pet shops",
+  "Florists",
+  "Photographers",
+  "Tutors",
+] as const;
